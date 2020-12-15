@@ -630,6 +630,10 @@
 // 	transform: translate(-50%, -50%);
 // }
 
+#pills-tabContent .fade:not(.show){
+	display: none;
+}
+
 // Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) { 
 	#nav-area .search-form input{
