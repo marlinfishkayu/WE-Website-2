@@ -67,7 +67,6 @@
        //on click store language to localStorage
       localStorage.setItem("stored_lang",lang);
       translateLang(lang);
-      console.log(lang);
       
 
     });
@@ -75,10 +74,3 @@
   });
 
 
-  // (function ()
-  //       {
-  //           debugger;
-
-  //           alert('開始執行');
-
-  //       })();
