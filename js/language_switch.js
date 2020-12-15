@@ -22,12 +22,9 @@
 
         var item = $(this);
         //Change text
-
         item.text(arrLang[lang][item.attr('key')]);
-        // $(this).text(arrLang[lang][$(this).attr('key')]);
         //Change placeholder
         item.prop("placeholder",arrLang[lang][item.attr('key')]);
-        //$(this).prop("placeholder",arrLang[lang][$(this).attr('key')]);
 
         
         });
