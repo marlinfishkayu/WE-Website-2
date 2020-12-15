@@ -243,3 +243,19 @@ var arrLang = {
     'Services_BackOffice_p': '强大的後台管理系统使你可以随时随地查看即时运营数据和管理工具，帮助你了解及评估游戏平台的营运表现，使你更有效管理业务。',
   }
 };
+
+//change image language
+var arrImg = {
+  'EN': [{
+      //WE Logo
+      'WE_logo': 'images/icon/en/logo.svg',
+    }],
+  'TC': [{
+      //WE Logo
+      'WE_logo': 'images/icon/tc/logo.svg',
+    }],
+  'SC': [{
+      //WE Logo
+      'WE_logo': 'images/icon/sc/logo.svg',
+    }]
+};

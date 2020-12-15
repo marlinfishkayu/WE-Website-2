@@ -235,3 +235,20 @@ var arrLang = {
     
   }
 };
+
+
+//change image language
+var arrImg = {
+  'EN': [{
+      //WE Logo
+      'WE_logo': 'images/icon/en/logo.svg',
+    }],
+  'TC': [{
+      //WE Logo
+      'WE_logo': 'images/icon/tc/logo.svg',
+    }],
+  'SC': [{
+      //WE Logo
+      'WE_logo': 'images/icon/sc/logo.svg',
+    }]
+};
