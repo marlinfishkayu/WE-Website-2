@@ -202,7 +202,7 @@ img {
 
 .secondaryBtn {
   font-size: 13px;
-  font-family: Futura,Trebuchet MS,Arial,sans-serif;
+  font-family: "Futura-Medium", Futura-pt, Arial, sans-serif;
   letter-spacing: 3px;
   text-align: center;
   text-decoration: none;
@@ -7627,7 +7627,7 @@ select.form-control::-ms-expand {
   position: fixed;
   visibility: hidden;
   opacity: 0;
-  bottom: -100%;
+  top: 140%;
   left: 50%;
   -webkit-transform: translate(-50%, 0%);
           transform: translate(-50%, 0%);
@@ -7717,7 +7717,7 @@ select.form-control::-ms-expand {
 
 #thankyou-popup.show {
   visibility: visible;
-  top: 80%;
+  top: 50%;
   opacity: 1;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
