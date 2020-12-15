@@ -5140,7 +5140,7 @@ select.form-control::-ms-expand {
   #newsFeed .frame-detail .frame-date {
     font-size: 36px;
     letter-spacing: 2px;
-    min-width: 70px;
+    min-width: 75px;
     width: 100%;
   }
   #newsFeed .frame-detail .frame-left {
