@@ -4849,7 +4849,7 @@ select.form-control::-ms-expand {
     left: 57px;
   }
   #newsFeed .timeline-wrap .timeline {
-    height: 1737px;
+    height: 1712px;
   }
   #newsFeed .timeline-detail {
     display: block;
@@ -4939,7 +4939,7 @@ select.form-control::-ms-expand {
   #newsFeed .timeline-wrap .timeline::before {
     content: "";
     position: absolute;
-    top: 340px;
+    top: 316px;
     left: 50%;
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
@@ -5140,6 +5140,8 @@ select.form-control::-ms-expand {
   #newsFeed .frame-detail .frame-date {
     font-size: 36px;
     letter-spacing: 2px;
+    min-width: 70px;
+    width: 100%;
   }
   #newsFeed .frame-detail .frame-left {
     width: 100%;
