@@ -1116,6 +1116,10 @@ button:focus {
           transition-delay: 0.5s;
 }
 
+#nav-area .nav-item .secondaryBtn {
+  padding: 0;
+}
+
 .menu-btn {
   width: 30px;
   height: 30px;

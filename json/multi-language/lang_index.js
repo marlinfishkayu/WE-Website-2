@@ -15,7 +15,7 @@ var arrLang = {
       'submenu_Lottery': 'Lottery',
       'submenu_Sportsbook': 'Sportsbook',
       'submenu_Slots': 'Slots',
-      'submenu_AllLiveGame': 'All Live Game',
+      'submenu_AllLiveGame': 'All Live Games',
       'ComingSoon': 'COMING SOON',
 
       //livegame submenu
